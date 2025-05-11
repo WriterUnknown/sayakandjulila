@@ -5,6 +5,8 @@ const messages = {
   "05-07": "I love your intelligence, you are so insightful and can pick up on the little-est of details.",
   "05-08": "I love the way you are brave and confident, you show me the light of the world. You're my everything."
   "05-09": "I love your hands, the prettiest softest touch in the whole universe. I'm so much in love with you."
+  "05-10": "I love you.",
+  "05-11": "I love your glow, you're my light in the universe."
   // Add more placeholder messages for the upcoming days.
 };
 
