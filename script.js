@@ -8,6 +8,7 @@ const messages = {
   "05-10": "I love you.",
   "05-11": "I love your glow, you're my light in the universe.",
   "05-12": "I love your cooking skills, best rice I've ever tasted.",
+  "05-16": "I love your nose.",
   // Add more placeholder messages for the upcoming days.
 };
 
