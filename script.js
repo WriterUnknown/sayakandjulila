@@ -3,8 +3,8 @@ const messages = {
   "05-05": "I love your eyes. The sight of your beautiful eyes melt me completely.",
   "05-06": "I love the victory look you give after being right, I love your confidence whenever that shows.",
   "05-07": "I love your intelligence, you are so insightful and can pick up on the little-est of details.",
-  "05-08": "I love the way you are brave and confident, you show me the light of the world. You're my everything."
-  "05-09": "I love your hands, the prettiest softest touch in the whole universe. I'm so much in love with you."
+  "05-08": "I love the way you are brave and confident, you show me the light of the world. You're my everything.",
+  "05-09": "I love your hands, the prettiest softest touch in the whole universe. I'm so much in love with you.",
   "05-10": "I love you.",
   "05-11": "I love your glow, you're my light in the universe.",
   "05-12": "I love your cooking skills, best rice I've ever tasted.",
