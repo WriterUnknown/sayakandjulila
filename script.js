@@ -13,7 +13,7 @@ const messages = {
   "05-15": "I love your touch",
   "05-16": "I love your nose.",
   "05-17": "I love the way you clench my hand, with the pinky always out. Hehe.",
-  "05-18": "I love the way you randomly throw in words of foreign languages, oh my pretty polyglot",
+  "05-18": "I love the way you randomly throw in words of foreign languages, oh my pretty polyglot"
   // Add more placeholder messages for the upcoming days.
 };
 
