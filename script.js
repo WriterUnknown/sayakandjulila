@@ -9,6 +9,8 @@ const messages = {
   "05-11": "I love your glow, you're my light in the universe.",
   "05-12": "I love your cooking skills, best rice I've ever tasted.",
   "05-16": "I love your nose.",
+  "05-17": "I love the way you clench my hand, with the pinky always out. Hehe.",
+  "05-18": "I love the way you randomly throw in words of foreign languages, oh my pretty polyglot",
   // Add more placeholder messages for the upcoming days.
 };
 
