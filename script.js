@@ -14,7 +14,9 @@ const messages = {
   "05-16": "I love your nose.",
   "05-17": "I love the way you clench my hand, with the pinky always out. Hehe.",
   "05-18": "I love the way you randomly throw in words of foreign languages, oh my pretty polyglot",
-  "05-19": "I love you"
+  "05-19": "I love you",
+  "05-20": "I love how real and transparent you are, you love me with everything but you always show me what I truly am and what I should be",
+  "05-21": "I love your resilience, you're the strongest person with an unbreakable will. Always shine my love."
   // Add more placeholder messages for the upcoming days.
 };
 
