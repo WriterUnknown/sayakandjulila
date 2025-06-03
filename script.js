@@ -28,7 +28,8 @@ const messages = {
   "05-30": "I love it when you take charge in anything, you deserve the world",
   "05-31": "You love me with everything, and I love you with everything",
   "06-01": "You can do whatever you set your mind to. Keep your chin high and I love you for inspiring me",
-  "06-02": "You motivate me so much, I love you for that"
+  "06-02": "You motivate me so much, I love you for that",
+  "06-03": "I love you"
   // Add more placeholder messages for the upcoming days.
 };
 
